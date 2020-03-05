@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.App-link {
+  color: ##000000;
+}
+
+.btn {
+  color: #000000;
+  cursor: pointer;
+  font-size: 3vmin;
+  padding: 0.7em 1.5em;
+}
