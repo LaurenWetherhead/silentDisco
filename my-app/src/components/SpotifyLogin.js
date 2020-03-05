@@ -9,7 +9,7 @@ import "./SpotifyLogin.css";
 
 export const authEndpoint = 'https://accounts.spotify.com/authorize';
 // Replace with your app's client ID, redirect URI and desired scopes
-const clientId = "163dea2f59b6403cb3c977b0f398a86f";
+const clientId = "CLIENT ID HERE";
 const redirectUri = "http://localhost:3000/Home";
 const scopes = [
   "user-read-currently-playing",

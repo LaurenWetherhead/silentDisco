@@ -8,13 +8,13 @@ import 'firebase/firestore';
 
 // TODO: Replace the following with your app's Firebase project configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDBH-bpOhQnnSys58VMoQbU5nWTggLMeNs",
+  apiKey: "YOUR API KEY HERE",
   authDomain: "silent-disco-4f514.firebaseapp.com",
-  databaseURL: "https://silent-disco-4f514.firebaseio.com",
+  databaseURL: "YOUR DATA BASE URL HERE",
   projectId: "silent-disco-4f514",
   storageBucket: "silent-disco-4f514.appspot.com",
   messagingSenderId: "657299273687",
-  appId: "1:657299273687:web:8c8b351413e7d00600bd92",
+  appId: "YOUR APP ID HERE",
   measurementId: "G-GNS9YY86X6"
 };
 
